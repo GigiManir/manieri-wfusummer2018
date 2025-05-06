@@ -32,4 +32,4 @@ The notebook is structured into the following sections:
 3. Install required packages:
    ```bash
    pip install requirements.txt
-4. Run the notebook in Jupyter or VScode
+4. Run the notebook main.ipynb in Jupyter or VScode
